@@ -26,8 +26,6 @@ proguard/
 # Log Files
 *.log
 /.idea
-
-*.iml
 .gradle
 /local.properties
 /.idea/workspace.xml
@@ -38,3 +36,5 @@ proguard/
 **/*/build/
 **/.idea
 **/*.iml
+.idea
+*.iml
